@@ -1,2 +1,2 @@
-print("Hello World");
-print("this is my first python project");
+echo "Hello World"
+echo "this is my first python project"
