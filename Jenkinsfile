@@ -1,1 +1,1 @@
-Print("Hello... this is my first pipeline job creation");
+echo "Hello... this is my first pipeline job creation"
